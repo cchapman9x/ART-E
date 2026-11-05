@@ -1,5 +1,3 @@
-# ART-E
-
 <p align="center">
   <img src="03-media/images/art-e-banner.png" alt="Final build front view" width="100%">
 </p>
